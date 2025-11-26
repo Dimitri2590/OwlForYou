@@ -1,0 +1,23 @@
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+packages/
+
+# EF Core
+Migrations/
+
+# Logs
+*.log
